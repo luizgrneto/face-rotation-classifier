@@ -50,9 +50,9 @@ FaceRotationClassifier/
 ├── data/
 │   ├── docs/                   # Documentos (PDF do teste técnico)
 │   ├── images/                 # Imagens de entrada para teste
-│   └── outputs/                # Saídas (JSONs, logs, etc.)
+│   └── outputs/                # Saídas (JSONs)
 │
-├── testes_e_estudos/           # (opcional) testes unitários
+├── testes_e_estudos/           # Testes e estudos
 │   └── testes_e_estudos.ipynb  # Notebook com alguns estudos e testes que não avançaram 
 │
 ├── README.md
